@@ -1,4 +1,6 @@
 # PWM-signal-generator-in-VHDL
+- Name: PWM signal generator in VHDL
+
 - PWM is using in the many different kind applications. Servo motors, communication modulation. In this application, I choose 50Hz signal for servo motor compatibility. 
 
 - 50Hz signal is about 20ms on application.
